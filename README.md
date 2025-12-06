@@ -65,5 +65,5 @@ Estou em constante aprendizado e busco minha primeira oportunidade profissional 
 <div align="center">
   <i>“Evoluir um pouco todos os dias cria resultados extraordinários.”</i>
   <br><br>
-  <img src="https://media.tenor.com/StXkYf1X34gAAAAC/kurapika-hxh.gif" width="600" />
+  <img src="[https://media.tenor.com/StXkYf1X34gAAAAC/kurapika-hxh.gif](https://i.pinimg.com/originals/6f/31/30/6f3130b8faf86f96e99098732fd9373a.gif)" width="600" />
 </div>
