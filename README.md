@@ -75,3 +75,8 @@ Estou em constante aprendizado e busco minha primeira oportunidade profissional 
 ---
 
 ⭐ *“Evoluir um pouco todos os dias cria resultados extraordinários.”*
+
+<br>
+<div align="center">
+  <img src="https://media.tenor.com/M6L1y3rR6yQAAAAC/thorfinn-vinland-saga.gif" width="600" />
+</div>
