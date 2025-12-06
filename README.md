@@ -25,13 +25,13 @@ Estou em constante aprendizado e busco minha primeira oportunidade profissional 
 ### 📫 Onde me encontrar
 
 <p align="left">
-  <a href="mailto:Joao_oficialkk@outlook.com">
+  <a href="mailto:joaooopessanha@gmail.com">
     <img src="https://img.shields.io/badge/Email-6A0DAD?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
   </a>
   <a href="#">
     <img src="https://img.shields.io/badge/LinkedIn-5C2D91?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="#">
+  <a href="(https://discord.com/users/216773526844080128)">
     <img src="https://img.shields.io/badge/Discord-8A2BE2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
   <a href="#">
@@ -60,8 +60,8 @@ Estou em constante aprendizado e busco minha primeira oportunidade profissional 
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&title_color=8A2BE2&icon_color=8A2BE2" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&title_color=8A2BE2" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaooopessanha-tech&show_icons=true&theme=tokyonight&title_color=8A2BE2&icon_color=8A2BE2" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaooopessanha-tech&layout=compact&theme=tokyonight&title_color=8A2BE2" />
 </p>
 
 ---
