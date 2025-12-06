@@ -51,13 +51,12 @@ Estou em constante aprendizado e busco minha primeira oportunidade profissional 
 
 ---
 
-### 📊 Estatísticas do GitHub
+<h3 align="left">📊 Estatísticas do GitHub</h3>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaooopessanha-tech&show_icons=true&theme=tokyonight&title_color=8A2BE2&icon_color=8A2BE2" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaooopessanha-tech&layout=compact&theme=tokyonight&title_color=8A2BE2" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=joaooopessanha-tech&show_icons=true&theme=tokyonight&title_color=8A2BE2&icon_color=8A2BE2" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaooopessanha-tech&layout=compact&theme=tokyonight&title_color=8A2BE2" />
 </p>
-
 ---
 
 <br>
