@@ -1,52 +1,77 @@
-# 👋 Olá! Eu sou o João Pessanha
+<h1 align="left">Olá, eu sou o João Pedro Garcia Pessanha 👋</h1>
 
-💻 Desenvolvedor Front-End com formação pelo **SENAC** em *Programação Front-End com IA*.  
-🚀 Experiência com **React**, **JavaScript**, **HTML/CSS** e tecnologias modernas do ecossistema web.  
-🎯 Sempre focado em aprender, criar projetos e evoluir minhas habilidades.
-
----
-
-## 🛠️ Tecnologias que utilizo
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="JS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Git" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-</div>
+<p align="left">
+  <strong>Front-end Developer</strong> · 
+  <strong>React</strong> · 
+  <strong>JavaScript</strong>
+</p>
 
 ---
 
-## 📊 Estatísticas do GitHub
+### 🚀 Sobre mim
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaooopessanha-tech&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaooopessanha-tech&layout=compact&theme=tokyonight"/>
-</div>
+Sou desenvolvedor focado em **Front-end**, criando interfaces modernas, fluidas e responsivas utilizando:
 
----
+- **React**
+- **JavaScript (ES6+)**
+- **HTML5 & CSS3**
+- Boas práticas de UI/UX  
+- Versionamento com Git & GitHub  
 
-## 📁 Projetos Principais
-
-🔹 Projetos com **React** em desenvolvimento  
-🔹 Outros projetos privados 🔒
+Estou em constante aprendizado e busco minha primeira oportunidade profissional para evoluir ainda mais como desenvolvedor, contribuindo com projetos reais e desafiadores.
 
 ---
 
-## 🎓 Formação
-📘 **SENAC — Programação Front-End**  
-✔ HTML, CSS, JavaScript  
-✔ React  
-✔ Git e GitHub  
-✔ Boas práticas e desenvolvimento moderno
+### 📫 Onde me encontrar
+
+<p align="left">
+  <a href="mailto:Joao_oficialkk@outlook.com">
+    <img src="https://img.shields.io/badge/Email-6A0DAD?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/LinkedIn-5C2D91?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Discord-8A2BE2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/YouTube-6A0DAD?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Trello-4B0082?style=for-the-badge&logo=trello&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-## 📫 Contato
-📧 joao_oficialkk@outlook.com  
-💬 #filosofiathorffin 
+### 🛠️ Tecnologias & Ferramentas
+
+<p align="left">
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+</p>
 
 ---
 
-⭐ Obrigado por visitar meu perfil! Fique à vontade para explorar meus repositórios.
+### 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&title_color=8A2BE2&icon_color=8A2BE2" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&title_color=8A2BE2" />
+</p>
+
+---
+
+### ✨ Ilustração Dev
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/micaelapng/micaelapng/main/dev-illustration-purple.png" width="500px" />
+</p>
+
+---
+
+⭐ *“Evoluir um pouco todos os dias cria resultados extraordinários.”*
