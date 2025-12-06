@@ -68,9 +68,9 @@ Estou em constante aprendizado e busco minha primeira oportunidade profissional 
 
 ### ✨ Ilustração Dev
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/micaelapng/micaelapng/main/dev-illustration-purple.png" width="500px" />
-</p>
+<div align="center">
+  <img src="https://media.tenor.com/StXkYf1X34gAAAAC/kurapika-hxh.gif" width="600" />
+</div>
 
 ---
 
