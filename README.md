@@ -28,17 +28,11 @@ Estou em constante aprendizado e busco minha primeira oportunidade profissional 
   <a href="mailto:joaooopessanha@gmail.com">
     <img src="https://img.shields.io/badge/Email-6A0DAD?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
   </a>
-  <a href="#">
+  <a href="https://www.linkedin.com/in/joao-pessanha/">
     <img src="https://img.shields.io/badge/LinkedIn-5C2D91?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://discord.com/users/216773526844080128">
     <img src="https://img.shields.io/badge/Discord-8A2BE2?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/YouTube-6A0DAD?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Trello-4B0082?style=for-the-badge&logo=trello&logoColor=white" />
   </a>
 </p>
 
@@ -47,12 +41,12 @@ Estou em constante aprendizado e busco minha primeira oportunidade profissional 
 ### 🛠️ Tecnologias & Ferramentas
 
 <p align="left">
-  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
 </p>
 
 ---
