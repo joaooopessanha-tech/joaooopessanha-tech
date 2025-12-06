@@ -50,12 +50,17 @@ Estou em constante aprendizado e busco minha primeira oportunidade profissional 
 </p>
 
 ---
-<h3 align="left">🚀 Status Atual</h3>
+<h3 align="left">🌱 O que estou estudando</h3>
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=A95EFF&center=true&vCenter=true&width=500&lines=Front-end+Developer;React+%26+JavaScript;Criando+interfaces+modernas;Fã+de+Animes+e+Games" alt="Typing SVG" />
-  </a>
+<p align="left">
+  Tenho focado meus estudos no ecossistema React e estilização moderna:
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 ---
 
