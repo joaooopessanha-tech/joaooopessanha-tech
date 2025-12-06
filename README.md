@@ -31,7 +31,7 @@ Estou em constante aprendizado e busco minha primeira oportunidade profissional 
   <a href="#">
     <img src="https://img.shields.io/badge/LinkedIn-5C2D91?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="(https://discord.com/users/216773526844080128)">
+  <a href="https://discord.com/users/216773526844080128">
     <img src="https://img.shields.io/badge/Discord-8A2BE2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
   <a href="#">
@@ -66,17 +66,10 @@ Estou em constante aprendizado e busco minha primeira oportunidade profissional 
 
 ---
 
-### ✨ Ilustração Dev
-
-<div align="center">
-  <img src="https://media.tenor.com/StXkYf1X34gAAAAC/kurapika-hxh.gif" width="600" />
-</div>
-
----
-
-⭐ *“Evoluir um pouco todos os dias cria resultados extraordinários.”*
-
 <br>
+
 <div align="center">
-  <img src="https://media.tenor.com/M6L1y3rR6yQAAAAC/thorfinn-vinland-saga.gif" width="600" />
+  <i>“Evoluir um pouco todos os dias cria resultados extraordinários.”</i>
+  <br><br>
+  <img src="https://media.tenor.com/StXkYf1X34gAAAAC/kurapika-hxh.gif" width="600" />
 </div>
