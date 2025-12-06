@@ -50,12 +50,12 @@ Estou em constante aprendizado e busco minha primeira oportunidade profissional 
 </p>
 
 ---
-
-<h3 align="left">📊 Estatísticas do GitHub</h3>
+<h3 align="left">🚀 Status Atual</h3>
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=joaooopessanha-tech&show_icons=true&theme=tokyonight&title_color=8A2BE2&icon_color=8A2BE2&hide_border=true&v=1" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaooopessanha-tech&layout=compact&theme=tokyonight&title_color=8A2BE2&hide_border=true&v=1" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=A95EFF&center=true&vCenter=true&width=500&lines=Front-end+Developer;React+%26+JavaScript;Criando+interfaces+modernas;Fã+de+Animes+e+Games" alt="Typing SVG" />
+  </a>
 </p>
 ---
 
